@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+**/*.csv
+Dockerfile
+docker-compose.yaml
+/.vscode
+*.zip
+*.avi
+*.mp4
+*.jpg
+requirements.txt
